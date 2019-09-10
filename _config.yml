@@ -1,11 +1,11 @@
 # Site settings
 author: Stef Spears
-title: 
+title: Boot the Binary
 header-img: img/home-bg.png
 email: spears.sj87@gmail.com
 copyright_name: Stef Spears
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The scenic route.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: stefdotjs
 github_username:  stef-spears
