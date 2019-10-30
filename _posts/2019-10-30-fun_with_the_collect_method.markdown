@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Fun With the .collect Method"
-date:       2019-10-30 19:25:01 +0000
+date:       2019-10-30 15:25:02 -0400
 permalink:  fun_with_the_collect_method
 ---
 
@@ -21,7 +21,7 @@ student_grades = {
 All I want is an array of the grades only, with no names attached:
 
 ```
-grades_only = student_grades.collect { |name, grade| grade } #here the key is 'name' and the value is 'grade'
+grades_only = student_grades.collect { |name, grade| grade }
  => ["A", "B", "C", "B"]
 ```
 
